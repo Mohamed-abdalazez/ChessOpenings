@@ -1,6 +1,6 @@
 ## Bishop's Opening
 
-- Bishop's Opening
+- If black play ♝c5.
 
 > line: 1. e4 e5 2. Bc4 Bc5 3. d4
 > - there is a variation here:
