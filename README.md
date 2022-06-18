@@ -1,3 +1,3 @@
 ## Chess Openings
 
-> - Bishop's Opening
+- Bishop's Opening
