@@ -1,1 +1,1 @@
-#### ChessOpenings
+#### Chess Openings
